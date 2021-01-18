@@ -19,7 +19,7 @@ function boot() {
     url += 'ducy=true'
   }
 
-  console.log(url)
+  window.location.replace(url);
 }
 
 document.getElementById('submit').addEventListener('click', boot)
