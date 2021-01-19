@@ -12,4 +12,4 @@ Using DevEnv is quite simple, just follow these steps:
 
 The *italic* step is optional.
 
-[1]: https://github.com/randucy/devenv/releases/latest
+[1]: https://github.com/randucy/devenv/releases
